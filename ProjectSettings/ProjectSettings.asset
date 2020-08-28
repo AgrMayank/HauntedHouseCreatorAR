@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: AgrMayank
-  productName: HauntedHouseCreatorAR
+  productName: Haunted House Creator AR
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.28235295, g: 0.21568629, b: 0.121568635, a: 1}
@@ -121,9 +121,8 @@ PlayerSettings:
     16:10: 1
     16:9: 1
     Others: 1
-  bundleVersion: 0.1
-  preloadedAssets:
-  - {fileID: -2123596091543075825, guid: 2bd01da5b720c394ead5f117b86aa33d, type: 2}
+  bundleVersion: 1
+  preloadedAssets: []
   metroInputSource: 0
   wsaTransparentSwapchain: 0
   m_HolographicPauseOnTrackingLoss: 1
